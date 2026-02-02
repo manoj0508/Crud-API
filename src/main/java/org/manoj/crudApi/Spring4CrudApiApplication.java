@@ -1,4 +1,4 @@
-package org.manoj.crud_api;
+package org.manoj.crudApi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package org.manoj.crud_api;
+package org.manoj.crudApi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

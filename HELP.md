@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'org.manoj.crud-api' is invalid and this project uses 'org.manoj.crud_api' instead.
+* The original package name 'org.manoj.crud-api' is invalid and this project uses 'org.manoj.crudApi' instead.
 
 # Getting Started
 

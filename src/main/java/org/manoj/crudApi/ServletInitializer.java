@@ -1,4 +1,4 @@
-package org.manoj.crud_api;
+package org.manoj.crudApi;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
